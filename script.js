@@ -1,6 +1,7 @@
 
 
 
+
 function setStickyMenu() {
     var width = $(window).width();
     //console.log(width);
@@ -22,6 +23,10 @@ function setStickyMenu() {
 
 $(document).ready(function ($) {
     setStickyMenu();
+});
+
+$(document).ready(function () {
+    $( 'table' ).addClass( "table" )
 });
 
 /*
