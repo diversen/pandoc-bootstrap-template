@@ -1,8 +1,7 @@
-pandoc-bootstrap-template
-=========================
+# pandoc-bootstrap-template
 
-Bootstrap template for Pandoc - Converts markdown files into Twitter Bootstrap styled HTML
+Extended from: 
 
-### Usage example
+https://github.com/tonyblundell/pandoc-bootstrap-template
 
-    pandoc in.md -o out.html --template template.html --css template.css --self-contained --toc --toc-depth 2
+Includes a sticky adaptive menu. # pandoc-bootstrap-adaptive-template

@@ -1,7 +1,3 @@
-
-
-
-
 function setStickyMenu() {
     var width = $(window).width();
     //console.log(width);
